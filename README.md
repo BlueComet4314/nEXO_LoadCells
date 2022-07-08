@@ -21,7 +21,7 @@ Parts:
 |C2| CAP_SMD-47pF - 1.4mm | 490-6129-2-ND |
 |C3| CAP_SMD-22pF - 1.4mm | 490-1253-2-ND |
 |C6| CAP_SMD-68pF - 1.4mm | 490-11338-2-ND |
-|J1| Conn-01x02_Male - 2.54mm | ?? |
+|J1| Conn-01x02_Male - 2.54mm | 77311-402-02LF-ND |
 |J2| Conn-01x04_Female -2.54mm | 609-3920-ND |
 |J4| Conn-01x04 | 151-140-504-415-001-ND or 151-140-504-415-000-ND (RA) |
 |J3, J5|  | ?? |
@@ -35,7 +35,7 @@ Parts:
 |R2-R4| Resistor_SMD-10K | 2997-CR20103JTR-ND |
 |R5| Resistor_SMD - 82k | 2997-CR20823JTR-ND |
 |R6| Resistor_SMD - 39k | 2997-CR20393JTR-ND |
-|Teensy_Ethernet1| | 1278-1052-ND |
+|Teensy_Ethernet1| Teensy Ethernet 1P | 1278-1052-ND |
 |U1| MSOP-10P| 505-AD7151BRMZ-ND |
 
 
