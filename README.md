@@ -2,10 +2,12 @@
 Schematics for LoadCell Level Sensor work
 
 Schematic of PT100 circuit:
+
 <img width="1268" alt="Screen Shot 2022-07-07 at 11 27 13 AM" src="https://user-images.githubusercontent.com/108306069/177843595-3382baad-e37a-496e-8a32-54f8e998dd31.png">
 
 
 PCB:
+
 <img width="837" alt="Screen Shot 2022-07-07 at 11 29 27 AM" src="https://user-images.githubusercontent.com/108306069/177843990-eaee2d23-5b77-4795-8bca-675c46c323ae.png">
 
 <img width="854" alt="Screen Shot 2022-07-07 at 11 30 45 AM" src="https://user-images.githubusercontent.com/108306069/177844572-3f427c7c-1c32-47cf-a10d-875c7a7793ae.png">
