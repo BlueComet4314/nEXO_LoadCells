@@ -16,11 +16,11 @@ PCB:
 Parts:
 
 | L0C | Part | Digikey PIN |
-|C1| CAP_THT-0.1uF - 2.50mm | |
-|C2| CAP_SMD-47pF - 1.4mm | |
-|C3| CAP_SMD-22pF - 1.4mm | |
-|C6| CAP_SMD-68pF - 1.4mm | |
-|J1| Conn-01x02_Male - 2.54mm | |
+|C1| CAP_THT-0.1uF - 2.50mm | ?? |
+|C2| CAP_SMD-47pF - 1.4mm | ?? |
+|C3| CAP_SMD-22pF - 1.4mm | ?? |
+|C6| CAP_SMD-68pF - 1.4mm | ?? |
+|J1| Conn-01x02_Male - 2.54mm | ?? |
 |J2| Conn-01x04_Female | 609-3920-ND |
 |J4| 
 |J3, J5|
