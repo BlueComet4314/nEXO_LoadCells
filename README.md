@@ -15,7 +15,7 @@ PCB:
 
 Parts:
 
-| L0C | Part | Digikey PIN |
+| L0C | Part - Desc. | Digikey PIN |
 | -- | -- | -- |
 |C1| CAP_THT-0.1uF - 2.50mm | 2368-89410-ND |
 |C2| CAP_SMD-47pF - 1.4mm | 490-6129-2-ND |
