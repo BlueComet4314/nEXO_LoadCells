@@ -17,22 +17,22 @@ Parts:
 
 | L0C | Part | Digikey PIN |
 | -- | -- | -- |
-|C1| CAP_THT-0.1uF - 2.50mm | ?? |
-|C2| CAP_SMD-47pF - 1.4mm | ?? |
-|C3| CAP_SMD-22pF - 1.4mm | ?? |
-|C6| CAP_SMD-68pF - 1.4mm | ?? |
+|C1| CAP_THT-0.1uF - 2.50mm | 2368-89410-ND |
+|C2| CAP_SMD-47pF - 1.4mm | 490-6129-2-ND |
+|C3| CAP_SMD-22pF - 1.4mm | 490-1253-2-ND |
+|C6| CAP_SMD-68pF - 1.4mm | 490-11338-2-ND |
 |J1| Conn-01x02_Male - 2.54mm | ?? |
-|J2| Conn-01x04_Female | 609-3920-ND |
-|J4| | |
-|J3, J5| | |
-| J6-10 | Conn header Vert-4POS - 2.54 mm | WM4802-ND|
-|MCU1| | |
-|P2| | |
-|P4| | |
-|P5| | |
-|P6| | |
+|J2| Conn-01x04_Female -2.54mm | 609-3920-ND |
+|J4| Conn-01x04 | ?? https://www.te.com/usa-en/product-440055-4.html |
+|J3, J5|  | ?? |
+| J6-10 | Conn header Vert-4POS - 2.54 mm | WM4826-ND|
+|MCU1| Teensy 4.1 | 1568-DEV-16771-ND |
+|P2| Arduino socket strip - Analog | 732-2859-ND |
+|P4| Arduino socket strip - Power | 732-2859-ND |
+|P5| Arduino socket strip - PWM | S7008-ND |
+|P6| |  |
 |P8-P13| | |
-|R2-R4| | |
+|R2-R4| Resistor_SMD-10K | 2997-CR20103JTR-ND |
 |R5| | |
 |R6| | |
 |Teensy_Ethernet1| | |
