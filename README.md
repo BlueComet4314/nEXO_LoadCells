@@ -23,19 +23,19 @@ Parts:
 |C6| CAP_SMD-68pF - 1.4mm | 490-11338-2-ND |
 |J1| Conn-01x02_Male - 2.54mm | ?? |
 |J2| Conn-01x04_Female -2.54mm | 609-3920-ND |
-|J4| Conn-01x04 | ?? https://www.te.com/usa-en/product-440055-4.html |
+|J4| Conn-01x04 | 151-140-504-415-001-ND or 151-140-504-415-000-ND (RA) |
 |J3, J5|  | ?? |
 | J6-10 | Conn header Vert-4POS - 2.54 mm | WM4826-ND|
 |MCU1| Teensy 4.1 | 1568-DEV-16771-ND |
-|P2| Arduino socket strip - Analog | 732-2859-ND |
-|P4| Arduino socket strip - Power | 732-2859-ND |
-|P5| Arduino socket strip - PWM | S7008-ND |
-|P6| |  |
-|P8-P13| | |
+|P2| Arduino socket strip - Analog 01x08| 732-2859-ND |
+|P4| Arduino socket strip - Power 01x08 | 732-2859-ND |
+|P5| Arduino socket strip - PWM-01x10| S7008-ND |
+|P6| Arduino socket strip - PWM-01x08 | 732-2859-ND |
+|P8-P13| Arduino CONN 01X01 | SAM1122-01-ND |
 |R2-R4| Resistor_SMD-10K | 2997-CR20103JTR-ND |
-|R5| | |
-|R6| | |
-|Teensy_Ethernet1| | |
-|U1| | |
+|R5| Resistor_SMD - 82k | 2997-CR20823JTR-ND |
+|R6| Resistor_SMD - 39k | 2997-CR20393JTR-ND |
+|Teensy_Ethernet1| | 1278-1052-ND |
+|U1| MSOP-10P| 505-AD7151BRMZ-ND |
 
 
