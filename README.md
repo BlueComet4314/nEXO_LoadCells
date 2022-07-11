@@ -16,13 +16,14 @@ Schematics for LoadCell Level Sensor work
 
 
 
+
 ## PCB Layout Vers. 02:
+
+<img width="854" alt="Screen Shot 2022-07-07 at 11 30 45 AM" src="https://user-images.githubusercontent.com/108306069/177844572-3f427c7c-1c32-47cf-a10d-875c7a7793ae.png" width=10% height=10%>
 
 <img width="1118" alt="Screen Shot 2022-07-11 at 10 16 11 AM" src="https://user-images.githubusercontent.com/108306069/178320824-e96d67de-59a4-4322-af7d-812e3fdbfd1c.png" width=10% height=10% >
 
 
-
-<img width="1075" alt="Screen Shot 2022-07-11 at 9 44 49 AM" src="https://user-images.githubusercontent.com/108306069/178315493-7273fac2-9abd-4e22-b6aa-869de430a9dc.png" width=25% height=25%>
 
 
 Parts:
