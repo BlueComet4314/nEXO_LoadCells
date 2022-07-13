@@ -37,7 +37,7 @@ Parts:
 |J1| Conn-01x02_Male - 2.54mm | 77311-402-02LF-ND |
 |J2| Conn-01x04_Female -2.54mm | 609-3920-ND |
 |J4| Conn-01x04 | >>151-140-504-415-001-ND << or 151-140-504-415-000-ND (RA) |
-|J3, J5| Load Cell Amp - HX711 | 1568-1436-ND |
+|J3/J5| Load Cell Amp - HX711 | 1568-1436-ND |
 | J6-10 | Conn header Vert-4POS - 2.54 mm | WM4826-ND|
 |MCU1| Teensy 4.1 | 1568-DEV-16771-ND |
 |P2| Arduino socket strip - Analog 01x08| 732-2859-ND |
