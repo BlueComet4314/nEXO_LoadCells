@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Load_Cell")(type "KiCad")(uri "/Users/aefzmq000/Desktop/SLAC_Stuff/KiCAD/LoadCells/SLACRnStill-main/SparkFun_HX711_Load_Cell.pretty")(options "")(descr ""))
+)
