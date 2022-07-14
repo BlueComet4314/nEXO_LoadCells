@@ -6,22 +6,13 @@ Schematics for LoadCell Level Sensor work
 <img width="1268" alt="Screen Shot 2022-07-07 at 11 27 13 AM" src="https://user-images.githubusercontent.com/108306069/177843595-3382baad-e37a-496e-8a32-54f8e998dd31.png" width=10% height=10% >
 
 
-## PCB Layout Vers. 01:
-
-<img width="837" alt="Screen Shot 2022-07-07 at 11 29 27 AM" src="https://user-images.githubusercontent.com/108306069/177843990-eaee2d23-5b77-4795-8bca-675c46c323ae.png" width=10% height=10%>
-
-<img width="854" alt="Screen Shot 2022-07-07 at 11 30 45 AM" src="https://user-images.githubusercontent.com/108306069/177844572-3f427c7c-1c32-47cf-a10d-875c7a7793ae.png" width=10% height=10%>
-
-<img width="1049" alt="Screen Shot 2022-07-07 at 11 33 14 AM" src="https://user-images.githubusercontent.com/108306069/177844640-92075efb-eb24-416a-84fc-000b99874c7f.png" width=10% height=10%>
-
-
-
 
 ## PCB Layout Vers. 02:
 
 <img width="854" alt="Screen Shot 2022-07-07 at 11 30 45 AM" src="https://user-images.githubusercontent.com/108306069/177844572-3f427c7c-1c32-47cf-a10d-875c7a7793ae.png" width=10% height=10%>
 
-<img width="1118" alt="Screen Shot 2022-07-11 at 10 16 11 AM" src="https://user-images.githubusercontent.com/108306069/178320824-e96d67de-59a4-4322-af7d-812e3fdbfd1c.png" width=10% height=10% >
+
+<img width="1107" alt="Screen Shot 2022-07-13 at 7 57 32 PM" src="https://user-images.githubusercontent.com/108306069/178888430-bef55cc9-a8a5-4f60-a6bb-87ecead2d027.png">
 
 
 
